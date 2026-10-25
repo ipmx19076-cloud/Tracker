@@ -1,0 +1,935 @@
+{
+ "generatedAt": "2026-10-25T17:42:59Z",
+ "apps": [
+  {
+   "company": "Accenture",
+   "floated": "2026-09-18",
+   "location": "",
+   "nextDate": "",
+   "nextStep": "",
+   "notes": "Strategy & Consulting (GN) and ATCI TC shortlists are out; you are not on either. AIOC Supply Chain is not hiring at CL7. Joining: Supply Chain in Mumbai, TFO in Bengaluru. Prime Week: S&C and TC on Day 0 (Tue 27 Oct) 9:30 AM–12:30 PM, virtual; ATCI on Day 3 (Fri 30 Oct); AIOC TFO and Supply Chain dates to be confirmed.",
+   "results": [
+    {
+     "date": "2026-10-23",
+     "kind": "shortlist",
+     "names": [
+      "Manish Tyagi",
+      "Ekta Lakra",
+      "Anurag Chaurasia",
+      "Balaji Soundararajan",
+      "Rakesh Reddy Bandaru",
+      "Swati Mishra",
+      "Shrey Kapil",
+      "Aman Pattnaik",
+      "Prithu Kapoor",
+      "Nishant Jha",
+      "Rajat Sharma",
+      "Shelly Goel",
+      "Arpita Mitra",
+      "Prantik Roy",
+      "Varunavi Jaya Murali",
+      "Aviral Sahu",
+      "Aman Singh",
+      "Akshat Shrivastava",
+      "Shivam Mishra",
+      "Nishant Dhaka",
+      "Saurabh Shukla"
+     ],
+     "note": "PAN card required at interview.",
+     "role": "Strategy & Consulting (GN)"
+    },
+    {
+     "date": "2026-10-23",
+     "kind": "waitlist",
+     "names": [
+      "Mohit Gahlawat",
+      "Anshuman Srivastava",
+      "Aditya Khare",
+      "Umang Pathak",
+      "Vasireddy Sheeza"
+     ],
+     "note": "Activated at Accenture's discretion; be reachable within 5–10 minutes.",
+     "role": "Strategy & Consulting (GN)"
+    },
+    {
+     "date": "2026-10-22",
+     "kind": "shortlist",
+     "names": [
+      "Aashna Hingorani",
+      "Akshay Jain",
+      "Shubham Manikshetti",
+      "Aviral Sahu",
+      "Anshuman Srivastava",
+      "Dhanusha Nimmaluri",
+      "Vinayak Sharma",
+      "Divyanshu Srivastava"
+     ],
+     "role": "ATCI – Technology Consulting (TC)"
+    }
+   ],
+   "roles": [
+    {
+     "applied": "yes",
+     "ctc": "₹23.6 / ₹37.3 / ₹54.8 LPA",
+     "deadline": "2026-10-04T20:00",
+     "status": "not_shortlisted",
+     "title": "Strategy & Consulting (GN) – Analyst / Consultant / Manager"
+    },
+    {
+     "applied": "no",
+     "ctc": "Not shared",
+     "deadline": "2026-10-14T14:00",
+     "status": "not_shortlisted",
+     "title": "ATCI – Technology Consulting (TC) Manager"
+    },
+    {
+     "applied": "no",
+     "ctc": "₹33.7–35.6 / ₹24.8–26.7 LPA + ₹1L joining",
+     "deadline": "2026-10-18T17:00",
+     "status": "closed",
+     "title": "ATCI – Manager (CL7) / Associate Manager (CL8)"
+    },
+    {
+     "applied": "no",
+     "ctc": "₹26.5 / ₹20.3 LPA",
+     "deadline": "2026-10-18T22:00",
+     "status": "closed",
+     "title": "AIOC – Supply Chain (CL8 / CL9)"
+    },
+    {
+     "applied": "no",
+     "ctc": "₹36.3–37.6 / ₹27.4–29.3 LPA",
+     "deadline": "2026-10-18T17:00",
+     "status": "closed",
+     "title": "AIOC – TFO, Program & Product Mgmt (CL7 / CL8)"
+    }
+   ],
+   "source": "S&C GN shortlist 23 Oct · ATCI TC shortlist 22 Oct",
+   "talks": [
+    {
+     "end": "2026-10-13T14:00",
+     "kind": "PPT",
+     "link": "https://teams.microsoft.com/meet/274120055979851?p=vr9NGtHqOaRR23DSkv",
+     "meetingId": "274 120 055 979 851",
+     "mode": "online",
+     "passcode": "Sp9Lc6eF",
+     "platform": "Microsoft Teams",
+     "start": "2026-10-13T13:00",
+     "unit": "Strategy & Consulting"
+    },
+    {
+     "dress": "Smart formals, camera on",
+     "end": "2026-10-14T15:30",
+     "kind": "PPT",
+     "link": "https://teams.microsoft.com/meet/239333170207563?p=7Lzp9wRdq7mzwrVC3t",
+     "meetingId": "239 333 170 207 563",
+     "mode": "online",
+     "passcode": "s924ZN9h",
+     "platform": "Microsoft Teams",
+     "start": "2026-10-14T14:30",
+     "unit": "AIOC Ops & Supply Chain"
+    },
+    {
+     "dress": "Business formals",
+     "end": "2026-10-16T12:00",
+     "kind": "PPT",
+     "report": "10:45 AM",
+     "start": "2026-10-16T11:00",
+     "unit": "ATCI & TC",
+     "venue": "Auditorium"
+    }
+   ],
+   "updatedAt": "2026-10-25T13:35:00Z",
+   "updatedBy": "claude",
+   "id": "accenture"
+  },
+  {
+   "applyUrl": "https://forms.gle/s93cULVwVnuAMz11A",
+   "company": "ATOS",
+   "floated": "2026-10-23",
+   "jdUrl": "https://drive.google.com/drive/folders/1CACBPKbRRndMSksYr9HeoxSMmYgqrmBK?usp=sharing",
+   "location": "",
+   "nextDate": "2026-10-28",
+   "nextStep": "Prime Week Day 1 process, on campus",
+   "notes": "Level depends on career stage. Possible one-time ₹4L reward for 100% targets and top rating. Form: forms.gle/s93cULVwVnuAMz11A Prime Week Day 1 (Wed 28 Oct): on campus.",
+   "roles": [
+    {
+     "applied": "yes",
+     "ctc": "₹35 LPA (₹3.5L variable)",
+     "deadline": "2026-10-25T19:00",
+     "status": "closed",
+     "title": "GCM5"
+    },
+    {
+     "applied": "",
+     "ctc": "₹40 LPA (₹6L variable)",
+     "deadline": "2026-10-25T19:00",
+     "status": "closed",
+     "title": "GCM6"
+    }
+   ],
+   "source": "ATOS JD and Registration Details · 23 Oct",
+   "updatedAt": "2026-10-25T13:45:00Z",
+   "updatedBy": "claude",
+   "id": "atos"
+  },
+  {
+   "company": "Axis Bank",
+   "floated": "2026-09-28",
+   "location": "",
+   "nextDate": "",
+   "nextStep": "Panel 1 selections out; you're not on the list",
+   "notes": "Incentive-based role. New-joiner incentive protection: ₹5L (SM), ₹8L (AVP) in year 1. Prime Week schedule lists Axis Bank as converted before Prime Week.",
+   "results": [
+    {
+     "date": "2026-10-12",
+     "kind": "selected",
+     "names": [
+      "Manan Doshi",
+      "Varshit CV",
+      "Shakti Shankar Singh",
+      "Deborit De Biswas",
+      "Sameer Sripada"
+     ],
+     "role": "EBPC Wealth Partner"
+    },
+    {
+     "date": "2026-10-12",
+     "kind": "shortlist",
+     "names": [
+      "Manan Doshi",
+      "Varshit CV",
+      "Shakti Shankar Singh",
+      "Deborit De Biswas",
+      "Sameer Sripada",
+      "Abhiman Shirish Phansalkar",
+      "Abhinav",
+      "Sarthak Gandhi",
+      "Rajaram R"
+     ],
+     "note": "Added by Mrinmoy: the 5 selected plus Abhiman, Abhinav, Sarthak and Rajaram (no shortlist mail).",
+     "role": "EBPC Wealth Partner"
+    }
+   ],
+   "roles": [
+    {
+     "applied": "no",
+     "ctc": "₹22.8 LPA fixed + incentive up to ₹30L",
+     "deadline": "2026-09-30T18:00",
+     "status": "not_shortlisted",
+     "title": "EBPC Wealth Partner – Senior Manager"
+    },
+    {
+     "applied": "no",
+     "ctc": "₹26.2 LPA fixed + incentive up to ₹45L",
+     "deadline": "2026-09-30T18:00",
+     "status": "not_shortlisted",
+     "title": "EBPC Wealth Partner – AVP"
+    }
+   ],
+   "source": "EBPC Panel 1 Selections · 12 Oct",
+   "updatedAt": "2026-10-25T13:35:00Z",
+   "updatedBy": "claude",
+   "id": "axis-ebpc"
+  },
+  {
+   "company": "CAMS",
+   "floated": "2026-10-05",
+   "location": "Chennai (Sales: Mumbai / Bangalore)",
+   "nextDate": "",
+   "nextStep": "Shortlist out; you're not on it",
+   "notes": "Only one profile could be applied for. Process: resume screen, GD, HR, 2–3 business rounds. Prime Week Day 2 (Thu 29 Oct): on campus.",
+   "results": [
+    {
+     "date": "2026-10-23",
+     "kind": "shortlist",
+     "names": [
+      "Apoorva Tripathi"
+     ],
+     "role": "Associate Product Manager"
+    },
+    {
+     "date": "2026-10-23",
+     "kind": "shortlist",
+     "names": [
+      "Rajaram R"
+     ],
+     "role": "Operations Leader Trainee – CAMSKRA"
+    },
+    {
+     "date": "2026-10-23",
+     "kind": "shortlist",
+     "names": [
+      "Shivangi Singh",
+      "Annany Mohan",
+      "Rishal Chaudhary",
+      "Utkarsh Sharma",
+      "Varunavi Padmavathi Jaya Murali Krishnan",
+      "Akshat Shrivastava",
+      "Akshay Jain",
+      "Yash Kumar",
+      "Adithya Krishna Raja Challuru",
+      "Shivani Pawar",
+      "Akarsh Dixit",
+      "Shubham Manikshetti",
+      "Aishwarjya Goswami",
+      "Phanindranath Pyreddy",
+      "Amandeep Singh",
+      "Vishal Singh",
+      "Ekta Lakra",
+      "Piyush Sarangi",
+      "Dhanusha Nimmaluri",
+      "Kshitiz Vaibhav",
+      "Rakesh Reddy Bandaru",
+      "Abhinav",
+      "Geetha Natarajan",
+      "Isha Choudhary"
+     ],
+     "note": "Updated list (Manan Doshi removed from the first version).",
+     "role": "Operations Leader Trainee"
+    }
+   ],
+   "roles": [
+    {
+     "applied": "no",
+     "ctc": "₹18–28 LPA",
+     "deadline": "2026-10-07T12:00",
+     "status": "not_shortlisted",
+     "title": "Operations – AIF (OLT)"
+    },
+    {
+     "applied": "no",
+     "ctc": "₹22–28 LPA",
+     "deadline": "2026-10-07T12:00",
+     "status": "not_shortlisted",
+     "title": "Operations Leader Trainee"
+    },
+    {
+     "applied": "no",
+     "ctc": "₹16–22 LPA",
+     "deadline": "2026-10-07T12:00",
+     "status": "not_shortlisted",
+     "title": "Associate Product Manager"
+    },
+    {
+     "applied": "no",
+     "ctc": "₹22–28 LPA",
+     "deadline": "2026-10-07T12:00",
+     "status": "not_shortlisted",
+     "title": "Cybersecurity Manager"
+    },
+    {
+     "applied": "no",
+     "ctc": "₹22–28 LPA",
+     "deadline": "2026-10-07T12:00",
+     "status": "not_shortlisted",
+     "title": "Sales Manager"
+    },
+    {
+     "applied": "no",
+     "ctc": "₹18–28 LPA",
+     "deadline": "2026-10-07T12:00",
+     "status": "not_shortlisted",
+     "title": "Operations Leader Trainee – CAMSKRA"
+    }
+   ],
+   "source": "Shortlisted Candidates for CAMS · 23 Oct",
+   "talks": [
+    {
+     "end": "2026-10-05T23:00",
+     "kind": "Alumni interaction",
+     "mode": "online",
+     "note": "Khukan Saha, AVP – CAMS",
+     "platform": "Google Meet",
+     "start": "2026-10-05T22:00"
+    }
+   ],
+   "updatedAt": "2026-10-25T13:35:00Z",
+   "updatedBy": "claude",
+   "id": "cams"
+  },
+  {
+   "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeL4G1oPaM-ezG1Bg94sLGYCLOsFERp-f9S0zqcknePHtmz2g/viewform",
+   "company": "Celonis",
+   "floated": "2026-10-20",
+   "jdUrl": "https://drive.google.com/drive/folders/1-WyAv99eYMjdmdH0NqgOIOZ2nPGbFgfL?usp=sharing",
+   "location": "Bangalore (hybrid)",
+   "nextDate": "2026-11-03",
+   "nextStep": "Prime Week Day 5 process (tentative), virtual",
+   "notes": "Virtual-only evaluation, Bangalore hybrid. Resume deadline extended to Sun 25 Oct, 6 PM after the 23 Oct pre-placement talk. Both roles add a ₹3L sign-on bonus on top of the CTC shown. Prime Week Day 5 (Tue 3 Nov): tentative, virtual.",
+   "roles": [
+    {
+     "applied": "",
+     "ctc": "₹31.22 LPA (₹34.22 with sign-on)",
+     "deadline": "2026-10-25T18:00",
+     "status": "closed",
+     "title": "Applied Value Engineer"
+    },
+    {
+     "applied": "",
+     "ctc": "₹43.93 LPA (₹46.93 with sign-on)",
+     "deadline": "2026-10-25T18:00",
+     "status": "closed",
+     "title": "Senior Applied Value Engineer"
+    }
+   ],
+   "source": "Celonis JDs & PPT · deadline extended 23 Oct",
+   "talks": [
+    {
+     "end": "2026-10-23T16:00",
+     "kind": "PPT",
+     "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjEyMmZkODMtZjVhYS00N2Y2LTlhYWEtZDNkOTgzY2JiZGRk%40thread.v2/0?context=%7b%22Tid%22%3a%22b7ace95d-83d7-4723-85c7-b1575720809d%22%2c%22Oid%22%3a%222e8a0379-7a72-41a8-80ac-72b53d9ed9ef%22%7d",
+     "meetingId": "373089389841039",
+     "mode": "online",
+     "passcode": "X5yD2PQ7",
+     "platform": "Microsoft Teams",
+     "report": "2:45 PM",
+     "start": "2026-10-23T15:00"
+    }
+   ],
+   "updatedAt": "2026-10-25T13:35:00Z",
+   "updatedBy": "claude",
+   "id": "celonis"
+  },
+  {
+   "applyUrl": "https://forms.gle/fj4ewTErFB7MhMiA6",
+   "company": "EXL",
+   "floated": "2026-10-23",
+   "location": "Noida / Gurgaon / Pune / Bangalore",
+   "nextDate": "2026-10-26T10:45",
+   "nextStep": "Leadership Talk Series (LTS) / PPT 10:45 AM (Auditorium); shortlist 2 PM; HirePro online test 7 PM",
+   "notes": "Eligibility: BE/BTech with previous employer in IT/ITES. 27 Oct business case study 9–11 PM; 28 Oct hiring drive. Pay: ₹24L fixed + 12% variable, ₹2L joining bonus, ₹2L retention bonus after 12 months. Prime Week Day 1 (Wed 28 Oct): EXL Digital process on campus.",
+   "roles": [
+    {
+     "applied": "yes",
+     "ctc": "₹24 LPA fixed + 12% variable",
+     "deadline": "2026-10-24T11:00",
+     "status": "closed",
+     "title": "Project Manager – Management Trainee (Band C2)"
+    }
+   ],
+   "source": "PPT - EXL · 25 Oct",
+   "talks": [
+    {
+     "dress": "Business formals",
+     "kind": "LTS",
+     "note": "Leadership Talk Series: Amit Choudhary, VP & HR Business Leader",
+     "start": "2026-10-07T10:45",
+     "venue": "Auditorium"
+    },
+    {
+     "dress": "Business formals",
+     "kind": "LTS · PPT",
+     "note": "Leadership Talk Series with Amit Choudhary, VP & HR Business Leader; be present before time. Shortlist 2 PM, online test 7 PM",
+     "start": "2026-10-26T10:45",
+     "venue": "Auditorium"
+    }
+   ],
+   "updatedAt": "2026-10-25T13:45:00Z",
+   "updatedBy": "claude",
+   "id": "exl"
+  },
+  {
+   "company": "HashedIn",
+   "floated": "2026-09-23",
+   "location": "",
+   "nextDate": "",
+   "nextStep": "",
+   "notes": "Interest form first; then PPT, CV, case study and interviews. Prime Week Day 5 (Tue 3 Nov): on campus.",
+   "roles": [
+    {
+     "applied": "no",
+     "ctc": "Not shared",
+     "deadline": "2026-09-25T11:00",
+     "status": "closed",
+     "title": "Senior Product Specialist"
+    }
+   ],
+   "source": "Senior Product Specialist – Interest Form · 23 Sep",
+   "updatedAt": "2026-10-25T13:35:00Z",
+   "updatedBy": "claude",
+   "id": "hashedin"
+  },
+  {
+   "company": "Hexaware",
+   "floated": "2026-09-30",
+   "location": "Siruseri, Chennai",
+   "nextDate": "",
+   "nextStep": "",
+   "notes": "8+ years experience; product-based IT background preferred. Process expected after Prime Week (after 3 Nov).",
+   "roles": [
+    {
+     "applied": "no",
+     "ctc": "₹45–55 LPA",
+     "deadline": "2026-10-04T23:59",
+     "status": "closed",
+     "title": "Delivery Manager (ASDM)"
+    }
+   ],
+   "source": "Hexaware Delivery Manager · 30 Sep",
+   "updatedAt": "2026-10-25T13:35:00Z",
+   "updatedBy": "claude",
+   "id": "hexaware"
+  },
+  {
+   "company": "Hoonartek",
+   "floated": "2026-10-16",
+   "location": "",
+   "nextDate": "",
+   "nextStep": "Final-round shortlist out; you're not on it",
+   "notes": "Fixed ₹21–26 LPA plus performance-linked variable; total can exceed ₹31 LPA for some profiles. Prime Week Day 0 (Tue 27 Oct): 12:30–3:30 PM, on campus.",
+   "results": [
+    {
+     "date": "2026-10-23",
+     "kind": "shortlist",
+     "names": [
+      "Yash Doshi",
+      "Adithya Krishna Raja Challuru",
+      "Apoorva Tripathi",
+      "Kapil Kandaswamy",
+      "Akshat Shrivastava",
+      "Anshuman Srivastava",
+      "Venkata Siva Krishna Sanagavarapu",
+      "Amandeep Singh",
+      "Dhanusha Nimmaluri"
+     ],
+     "role": "Pre-Sales / Technology Solutions"
+    },
+    {
+     "date": "2026-10-23",
+     "kind": "shortlist",
+     "names": [
+      "Hemabja Panda",
+      "Arpita Mitra",
+      "Abhinav",
+      "Shivangi Singh",
+      "Abhiman Shirish Phansalkar",
+      "Rajaram R"
+     ],
+     "role": "Client Partner / Sales"
+    },
+    {
+     "date": "2026-10-23",
+     "kind": "shortlist",
+     "names": [
+      "Varunavi Padmavathi Jaya Murali Krishnan",
+      "Arpita Mitra",
+      "Swati Mishra",
+      "Arvind S V",
+      "Mohit Gahlawat",
+      "Komal Sanjeevan Ghule",
+      "Amitansi Kaushik"
+     ],
+     "note": "Shortlisted candidates must submit a two-slide presentation by Mon 26 Oct, 12 noon.",
+     "role": "Chief of Staff / Business Strategy"
+    }
+   ],
+   "roles": [
+    {
+     "applied": "no",
+     "ctc": "₹21–26 LPA fixed + variable",
+     "deadline": "2026-10-21T15:00",
+     "status": "not_shortlisted",
+     "title": "Pre-Sales / Technology Solutions"
+    },
+    {
+     "applied": "no",
+     "ctc": "₹21–26 LPA fixed + variable",
+     "deadline": "2026-10-21T15:00",
+     "status": "not_shortlisted",
+     "title": "Client Partner / Sales"
+    },
+    {
+     "applied": "no",
+     "ctc": "₹21–26 LPA fixed + variable",
+     "deadline": "2026-10-21T15:00",
+     "status": "not_shortlisted",
+     "title": "Chief of Staff / Business Strategy"
+    }
+   ],
+   "source": "Shortlisted Candidates for Final Interviews · 23 Oct",
+   "talks": [
+    {
+     "dress": "Business casuals",
+     "kind": "PPT",
+     "note": "CEO Peeyoosh Pandey; first PPT of the season",
+     "report": "10:45 AM",
+     "start": "2026-09-29T10:45",
+     "venue": "Auditorium"
+    }
+   ],
+   "updatedAt": "2026-10-25T13:35:00Z",
+   "updatedBy": "claude",
+   "id": "hoonartek"
+  },
+  {
+   "company": "Incedo",
+   "floated": "2026-10-14",
+   "location": "Gurgaon",
+   "nextDate": "",
+   "nextStep": "",
+   "notes": "One application with up to 3 role preferences. Prime Week Day 1 (Wed 28 Oct): 9:00 AM, on campus.",
+   "roles": [
+    {
+     "applied": "no",
+     "ctc": "₹26 LPA",
+     "deadline": "2026-10-18T15:00",
+     "status": "closed",
+     "title": "Associate Product Strategy"
+    },
+    {
+     "applied": "no",
+     "ctc": "₹26 LPA",
+     "deadline": "2026-10-18T15:00",
+     "status": "closed",
+     "title": "Associate Program Manager (Strategy & Practice Mgmt)"
+    },
+    {
+     "applied": "no",
+     "ctc": "₹26 LPA",
+     "deadline": "2026-10-18T15:00",
+     "status": "closed",
+     "title": "Product Owner"
+    },
+    {
+     "applied": "no",
+     "ctc": "₹26 LPA",
+     "deadline": "2026-10-18T15:00",
+     "status": "closed",
+     "title": "Analytics Consultant"
+    },
+    {
+     "applied": "no",
+     "ctc": "₹30 LPA (₹26.5 fixed + ₹3.5 variable)",
+     "deadline": "2026-10-18T15:00",
+     "status": "closed",
+     "title": "Client Engagement Manager"
+    }
+   ],
+   "source": "Incedo Multiple Roles · 14 Oct",
+   "talks": [
+    {
+     "dress": "Business casuals",
+     "kind": "PPT",
+     "note": "Moved from 4:45 PM",
+     "report": "6:45 PM",
+     "start": "2026-10-09T19:00",
+     "venue": "Auditorium"
+    }
+   ],
+   "updatedAt": "2026-10-25T13:35:00Z",
+   "updatedBy": "claude",
+   "id": "incedo"
+  },
+  {
+   "appliedSetAt": "2026-10-23T18:03:06.796Z",
+   "company": "Infosys",
+   "floated": "2026-10-21",
+   "location": "Pan India",
+   "nextDate": "2026-11-02",
+   "nextStep": "Prime Week Day 4: Infosys Consulting process on campus",
+   "notes": "Applied: Google Form receipts for the IC form (22 Oct, 11:11 PM) and IL form (22 Oct, 11:16 PM). Consulting needs 60+ months experience; Finacle/MFGDCG need 48+. Case studies possible. Prime Week Day 4 (Mon 2 Nov): Infosys Consulting, Infosys Finance and Infosys DCG processes, all on campus.",
+   "roles": [
+    {
+     "applied": "yes",
+     "ctc": "₹23–27 LPA (incl. 20% variable)",
+     "deadline": "2026-10-22T23:59",
+     "status": "closed",
+     "title": "Senior Consultant – Business Consulting (Infosys Consulting)"
+    },
+    {
+     "applied": "no",
+     "ctc": "₹19.39 LPA (incl. 15% variable)",
+     "deadline": "2026-10-22T23:59",
+     "status": "closed",
+     "title": "Senior Consultant – Finacle"
+    },
+    {
+     "applied": "no",
+     "ctc": "₹19.39 LPA (incl. 15% variable)",
+     "deadline": "2026-10-22T23:59",
+     "status": "closed",
+     "title": "Senior Consultant – MFGDCG"
+    }
+   ],
+   "source": "Applications Open for Three Roles · 21 Oct",
+   "talks": [
+    {
+     "end": "2026-10-13T21:30",
+     "kind": "PPT",
+     "link": "https://teams.microsoft.com/meet/44970409299762?p=NjtR7t2fLPFMFgISs1",
+     "mode": "online",
+     "platform": "Microsoft Teams",
+     "start": "2026-10-13T20:30",
+     "unit": "Finacle"
+    },
+    {
+     "end": "2026-10-15T20:00",
+     "kind": "PPT",
+     "link": "https://teams.microsoft.com/meet/438103937518615?p=DvCZoLElZwxha6JScb",
+     "mode": "online",
+     "platform": "Microsoft Teams",
+     "start": "2026-10-15T19:00",
+     "unit": "Infosys Consulting"
+    },
+    {
+     "end": "2026-10-19T20:00",
+     "kind": "PPT",
+     "link": "https://teams.microsoft.com/meet/490105117118223?p=LzdaQY3JnyF5W0yvk8",
+     "mode": "online",
+     "platform": "Microsoft Teams",
+     "start": "2026-10-19T19:00",
+     "unit": "MFGDCG"
+    }
+   ],
+   "updatedAt": "2026-10-25T13:35:00Z",
+   "updatedBy": "claude",
+   "id": "infosys"
+  },
+  {
+   "company": "Nagarro",
+   "floated": "2026-10-21",
+   "location": "",
+   "nextDate": "",
+   "nextStep": "Process expected after Prime Week (after 3 Nov)",
+   "notes": "Final CTC depends on experience and interview performance. Process expected after Prime Week (after 3 Nov).",
+   "roles": [
+    {
+     "applied": "yes",
+     "ctc": "₹24–37 LPA",
+     "deadline": "2026-10-22T23:59",
+     "status": "closed",
+     "title": "Business Consultant – BFSI"
+    },
+    {
+     "applied": "no",
+     "ctc": "₹24–37 LPA",
+     "deadline": "2026-10-22T23:59",
+     "status": "closed",
+     "title": "Business Consultant – Overhead"
+    }
+   ],
+   "source": "Nagarro Job Opportunities · CTC update 22 Oct",
+   "updatedAt": "2026-10-25T13:35:00Z",
+   "updatedBy": "claude",
+   "id": "nagarro"
+  },
+  {
+   "company": "PwC AC India",
+   "floated": "2026-10-15",
+   "jdUrl": "https://drive.google.com/drive/folders/1HvO3MZmsIeMhGk-N32XfSO71fGlnSwTh?usp=drive_link",
+   "location": "Gurgaon / Bangalore",
+   "nextDate": "2026-10-27T08:00",
+   "nextStep": "Prime Week Day 0 interviews, 8–11 AM on campus (only if PwC reaches the Warm list)",
+   "notes": "You are on the second (Warm) list. PwC interviews the Hot list first and may not reach the Warm list. Placement cell is pushing for more interviews. Prime Week Day 0 (Tue 27 Oct): PwC AC slot 8:00–11:00 AM, on campus.",
+   "results": [
+    {
+     "date": "2026-10-22",
+     "kind": "shortlist",
+     "names": [
+      "Arpita Mitra",
+      "Navin Sreejith U R",
+      "Aman Singh",
+      "Prabhas Mishra",
+      "Swati Mishra",
+      "Yashwanth Durishetty",
+      "Mohit Gahlawat",
+      "Akshat Shrivastava",
+      "Sarthak Gandhi",
+      "Kapil Kandaswamy"
+     ],
+     "note": "Hot list: interviewed first.",
+     "role": "Senior Associate – M&A Strategy (DDV)"
+    },
+    {
+     "date": "2026-10-23",
+     "kind": "shortlist",
+     "names": [
+      "Himanshi Srivastava",
+      "D Sovana Kumari",
+      "Varunavi Padmavathi Jaya Murali Krishnan",
+      "Aashna Hingorani",
+      "Mrinmoy Negel",
+      "Swapnil Sagar Soren",
+      "Saurabh Verma",
+      "Akshit Sodhi"
+     ],
+     "note": "Warm list: interviewed only if PwC needs more candidates.",
+     "role": "Senior Associate – M&A Strategy (DDV)"
+    }
+   ],
+   "roles": [
+    {
+     "applied": "yes",
+     "ctc": "₹30.5 LPA fixed + ₹1L joining + 0–17% bonus",
+     "deadline": "2026-10-19T08:00",
+     "status": "shortlisted",
+     "title": "Senior Associate – M&A Strategy (DDV)"
+    }
+   ],
+   "source": "Additional Shortlisted Candidates (Warm list) · 23 Oct",
+   "talks": [
+    {
+     "dress": "Formals, IIML virtual background",
+     "kind": "PPT",
+     "link": "https://u39981662.ct.sendgrid.net/ls/click?upn=u001.L6d-2BSGvCrRLCADJzgyAJR96t5KWmKx3IoobHS3wQ9zGYmEjFCaqYfThLgYCYZLMnh6XXbmAdHv5Nm2lM5vH4IBGw2LS4lKXAiOKjzG2EDfc-3DOzK2_CmsOCzMXhOmRLnZilBGK8711YDethuAnxxkNTa-2Bl4oUeXRzzqHrF8h9mKg9I9WrDl0XexTvwhu4u-2F0Goes4h2CcXNz-2BoCh4BR9tv0np5-2F-2Bd2Ui6uYooK-2Bm79yESBQHQNldFnxfHnr0moApMa5wvLRdJhrJ78jZeJfFxxH7bBuUphf9DaBt-2BSKyFQec-2FgHNxts-2BKuGbmnNLR3nZpUAAlHi-2Ff8l9M4D6NB-2Bqa2EdNwHvbPRFOC1dAG3gDFn-2FJduRd6-2Fq5brauZkBwTQFAP-2FPdAqLsiWM-2BMZU3DvTiydruH79hOjwlpYJ90GHccg7sXIp48VXIoBkBMuMflhPubN3YwjPLtwKtbXlIbZlPBFLGOnY4P9U6D0WmuOG7cr-2B0Aw6ELA1xK18XkwPmIswAySx1Xi2zjsEfwHUIY-2BNZxWq1ybAQDOYhSXbQEa05iNx-2FXHNVy8FdywB0JwiXv5f06NChwK-2FbGG2jMSw0kzezv4Y13P-2B9ordGi28fSeN2MBmxuhdC2wZgHA5x5QPI-2BnMuIWVwegXL5ekbG8L11uY6-2B-2BtmyeyIrFlz-2FngUIW163MgELWeraNjYAQ19fd6W-2FbxvpU4t-2F9oH1Xt8-2BwkiRginqcsOyEgJwxn7ivIs2JkcI89Oz8rmP-2B1oG-2F86n7dssSOOcZoJIyHCzCe2T0bHjTjOeJ4mW8VZ-2FU8sNApvkondrwsbK2fU3oE-2FQpchr7yiE-2BtiW8UfwrAGm7CkYAe-2BUsIOgh5GVooqiP-2FOZYh1caIPxX0hixkbzIiz9jzKHxRFNrx5kMsZePaRnQJ3arN-2BcUCisoPlDbQE-3D",
+     "mode": "online",
+     "platform": "Microsoft Teams",
+     "report": "4:30 PM",
+     "start": "2026-10-15T16:45"
+    }
+   ],
+   "updatedAt": "2026-10-25T13:35:00Z",
+   "updatedBy": "claude",
+   "id": "pwc-ac-ddv"
+  },
+  {
+   "company": "Samagra",
+   "floated": "2026-10-09",
+   "location": "",
+   "nextDate": "",
+   "nextStep": "Shortlist out; only Mohit Gahlawat is in the advanced interview round",
+   "notes": "Portal application with a 90-second video SOP, plus the internal Google Form. Prime Week schedule lists Samagra Consulting as rolling (before Prime Week).",
+   "results": [
+    {
+     "date": "2026-10-25",
+     "kind": "shortlist",
+     "names": [
+      "Mohit Gahlawat",
+      "Abhiman Shirish Phansalkar",
+      "Aviral Sahu",
+      "Nishant Jha",
+      "Akshat Shrivastava",
+      "Amandeep Singh",
+      "Sourabh Shukla",
+      "Shelly Goel",
+      "Swati Mishra",
+      "Siddharth Loumash"
+     ],
+     "note": "Applied and shortlisted (shared by you; role not specified).",
+     "role": "All roles"
+    },
+    {
+     "date": "2026-10-25",
+     "kind": "shortlist",
+     "names": [
+      "Mohit Gahlawat"
+     ],
+     "note": "Only candidate still in the selection process (shared by you).",
+     "role": "Advanced interview round"
+    }
+   ],
+   "roles": [
+    {
+     "applied": "no",
+     "ctc": "₹13.5–21 LPA",
+     "deadline": "2026-10-11",
+     "status": "not_shortlisted",
+     "title": "Senior Associate"
+    },
+    {
+     "applied": "no",
+     "ctc": "₹21–30 LPA",
+     "deadline": "2026-10-11",
+     "status": "not_shortlisted",
+     "title": "Consultant"
+    },
+    {
+     "applied": "no",
+     "ctc": "₹40 LPA",
+     "deadline": "2026-10-11",
+     "status": "not_shortlisted",
+     "title": "Emerging Leader"
+    }
+   ],
+   "source": "Samagra Consulting Opportunities · 9 Oct",
+   "talks": [
+    {
+     "kind": "Recruitment talk",
+     "note": "Recording is in the Samagra JD folder; time not given in mail",
+     "start": "2026-10-06T10:00"
+    }
+   ],
+   "updatedAt": "2026-10-25T14:05:00Z",
+   "updatedBy": "claude",
+   "id": "samagra"
+  },
+  {
+   "company": "UI/UX Designer opening",
+   "floated": "2026-10-13",
+   "location": "",
+   "nextDate": "",
+   "nextStep": "",
+   "notes": "Company not named in the mail.",
+   "roles": [
+    {
+     "applied": "",
+     "ctc": "₹15–25 LPA",
+     "deadline": "2026-10-14",
+     "status": "closed",
+     "title": "UI/UX Designer"
+    }
+   ],
+   "source": "UI/UX Designer Opportunity · 13 Oct",
+   "updatedAt": "2026-10-23T17:45:00Z",
+   "updatedBy": "claude",
+   "id": "uiux-designer"
+  },
+  {
+   "company": "Virtusa",
+   "floated": "2026-10-17",
+   "location": "",
+   "nextDate": "",
+   "nextStep": "",
+   "notes": "Resumes went to a Drive folder. Only relevant IT project-management experience counts toward CTC. Process expected after Prime Week (after 3 Nov).",
+   "roles": [
+    {
+     "applied": "",
+     "ctc": "₹18 LPA + ₹1.25 LPA per year of relevant exp",
+     "deadline": "2026-10-20T10:00",
+     "status": "closed",
+     "title": "Project Manager (two JDs)"
+    }
+   ],
+   "source": "Virtusa Project Manager Roles · deadline extended 19 Oct",
+   "updatedAt": "2026-10-25T13:35:00Z",
+   "updatedBy": "claude",
+   "id": "virtusa"
+  }
+ ],
+ "notices": [
+  {
+   "addedBy": "claude",
+   "body": "Mandatory for everyone, including placed and opted-out students: report at 10:45 AM in the Exam Hall; attendance at 11:00 AM sharp, then doors close. ₹10,000 fine for being late or absent; exemptions only via the CDS Office. Agenda: Prime Week (starts Tue 27 Oct), Placement Policy, processes and expectations. Read the Placement Policy beforehand and raise doubts in the meeting; questions from absentees won't be taken later.",
+   "from": "Placement cell (mail)",
+   "mandatory": "yes",
+   "postedAt": "2026-10-24T18:43:00Z",
+   "start": "2026-10-25T11:00",
+   "title": "Mandatory batch meet: Prime Week & Placement Policy",
+   "venue": "Exam Hall (report 10:45 AM)",
+   "id": "batch-meet-2026-10-25"
+  },
+  {
+   "addedBy": "claude",
+   "body": "Everyone shortlisted for Day 0 interviews must fill the interview preference form (shared after the batch meet) so the placement team can schedule interviews and manage clashes. Deadline: Sunday 25 Oct, 6:00 PM. Form: https://forms.gle/RtNcx1MSZu8Yd5w69",
+   "from": "Placement cell (mail)",
+   "mandatory": "yes",
+   "postedAt": "2026-10-25T10:30:00Z",
+   "start": "2026-10-25T18:00",
+   "title": "Day 0 interview preference form — due 6 PM today",
+   "venue": "https://forms.gle/RtNcx1MSZu8Yd5w69",
+   "id": "preference-form-2026-10-25"
+  },
+  {
+   "addedBy": "claude",
+   "body": "Day 0 Tue 27 Oct: PwC AC 8–11 AM, Accenture S&C and TC 9:30 AM–12:30 PM (virtual), Hoonartek 12:30–3:30 PM. Day 1 Wed 28 Oct: EXL Digital, Incedo (9 AM), Atos. Day 2 Thu 29 Oct: CAMS. Day 3 Fri 30 Oct: Accenture ATCI. Day 4 Mon 2 Nov: Infosys Consulting, Finance, DCG. Day 5 Tue 3 Nov: HashedIn, Celonis (tentative, virtual). Accenture AIOC TFO and Supply Chain dates TBC; Virtusa, Nagarro and Hexaware expected after Prime Week. You're on PwC's Warm list (Day 0) and applied to EXL, Atos GCM5, Infosys Consulting and Nagarro BFSI.",
+   "from": "Placement cell (schedule)",
+   "mandatory": "",
+   "postedAt": "2026-10-25T13:35:00Z",
+   "start": "2026-10-27T08:00",
+   "title": "Prime Week: 27 Oct – 3 Nov",
+   "venue": "On campus (some slots virtual)",
+   "id": "prime-week-2026-10-27"
+  }
+ ]
+}
